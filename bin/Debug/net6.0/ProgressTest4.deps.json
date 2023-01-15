@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProgressTest4/1.0.0": {
+        "runtime": {
+          "ProgressTest4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgressTest4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
